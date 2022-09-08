@@ -1,0 +1,13 @@
+
+los espacios del final son importantes
+
+PRUEBA 1
+usuario' -- 
+
+
+PRUEBA 2
+
+' OR 1=1; /*
+*/-- 
+
+
